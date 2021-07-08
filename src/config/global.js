@@ -40,25 +40,25 @@ export default {
       },
       {
         nombre: 'Wilson Andrés Arenales Caceres',
-        cargo: 'Desarrollo front-end',
+        cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
         nombre: 'Gilberto Junior Rodriguez Rodriguez',
-        cargo: 'Desarrollo front-end',
+        cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
         nombre: 'Lina Marcela Perez Manchego',
-        cargo: 'Desarrollo front-end',
+        cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
         nombre: 'Ricardo Vásquez Arroyave',
-        cargo: 'Desarrollo front-end',
+        cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
