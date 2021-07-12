@@ -32,15 +32,14 @@ section
         .d-none.d-lg-block.col-lg-5
           //- img(src="@/assets/curso/banner-princiapal.svg")
           .video
-            | <iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/AN3ajy74DKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
-
+            | <iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/tRsFoZxeFXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
       span.h4 1. Presentación
 
     p El programa Tecnología en Gestión Integral del Transporte forma talento humano que desee desempeñarse en actividades del transporte que involucren la planeación, supervisión, coordinación de los recursos, el análisis de costos, caracterización de los riesgos, proyección de requerimientos y el análisis de la información. 
-    p El egresado de este programa podrá no solo adquirir habilidades y destrezas que lo vuelvan competitivo a nivel laboral, tenga una mejor calidad de vida, sino vincularse a empresas del sector público y/o privado que estén dedicadas a la movilización de objetos, animales y/o personas según su actividad económica.
+    p El egresado de este programa podrá no solo adquirir habilidades y destrezas que lo vuelvan competitivo a nivel laboral y tenga una mejor calidad de vida, sino vincularse a empresas del sector público y/o privado que estén dedicadas a la movilización de objetos, animales y/o personas según su actividad económica.
     p Estimado aprendiz, le damos la bienvenida a la formación profesional integral que ofrece el Sena, mediante el programa tecnólogo en Gestión Integral del Transporte, donde usted podrá adquirir o reforzar sus conocimientos, destrezas y habilidades, con las cuales se espera que usted pueda resolver las situaciones a las que se enfrentará en su vida laboral dentro del sector del transporte. Ánimo, la perseverancia y la constancia le permitirá lograr su proyecto de vida y contribuir al desarrollo del país.
 
 
@@ -141,13 +140,13 @@ section
           ul
             li 
               i.fas.fa-check
-              | Nivel académico: Media básica
+              | Nivel académico: media básica
             li 
               i.fas.fa-check
-              | Grado: Undécimo
+              | Grado: undécimo
             li 
               i.fas.fa-check
-              | Requiere certificación académica:  SI 
+              | Requiere certificación académica:  si 
             li 
               i.fas.fa-check
               | Edad mínima definida en la ley: 16 años 
@@ -185,7 +184,7 @@ section
       li 
         i.fas.fa-circle
         p
-          strong Aspectos actitudinales, motivacionales y de interés.
+          strong Aspectos actitudinales, motivacionales y de interés:
           br
           br
           | Buena actitud, presentación personal, proactivo, valores éticos, relaciones interpersonales.

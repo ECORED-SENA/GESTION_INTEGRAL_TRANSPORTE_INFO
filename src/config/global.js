@@ -14,6 +14,16 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
+      {
+        nombre: 'Zeidy Lilian Álvarez Álvarez',
+        cargo: 'Experta temática',
+        centro: 'Centro de Tecnologías del Transporte',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Diseño y Metrología <br>Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -69,7 +79,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'María Isabel Román Rueda',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
