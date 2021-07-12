@@ -39,7 +39,7 @@ section
       span.h4 1. Presentación
 
     p El programa Tecnología en Gestión Integral del Transporte forma talento humano que desee desempeñarse en actividades del transporte que involucren la planeación, supervisión, coordinación de los recursos, el análisis de costos, caracterización de los riesgos, proyección de requerimientos y el análisis de la información. 
-    p El egresado de este programa podrá no solo adquirir habilidades y destrezas que lo vuelvan competitivo a nivel laboral y tenga una mejor calidad de vida, sino vincularse a empresas del sector público y/o privado que estén dedicadas a la movilización de objetos, animales y/o personas según su actividad económica.
+    p El egresado de este programa podrá adquirir habilidades y destrezas que lo llevarán a ser competente laboralmente, tener una mejor calidad de vida y a su vez podrá vincularse en empresas del sector público o privado que estén dedicadas a la movilización de objetos, animales y/o personas según su actividad económica.
     p Estimado aprendiz, le damos la bienvenida a la formación profesional integral que ofrece el Sena, mediante el programa tecnólogo en Gestión Integral del Transporte, donde usted podrá adquirir o reforzar sus conocimientos, destrezas y habilidades, con las cuales se espera que usted pueda resolver las situaciones a las que se enfrentará en su vida laboral dentro del sector del transporte. Ánimo, la perseverancia y la constancia le permitirá lograr su proyecto de vida y contribuir al desarrollo del país.
 
 
